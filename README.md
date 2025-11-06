@@ -32,5 +32,5 @@ This project consists of:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/plast-api.git
+git clone https://github.com/feshovets/plast-api.git
 cd plast-api
