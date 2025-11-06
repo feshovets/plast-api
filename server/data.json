@@ -1,0 +1,1546 @@
+{
+    "upu": [
+        {
+            "id": 1,
+            "number": 1,
+            "gender": "male",
+            "name": "ім. Король Данило",
+            "location": "Львів",
+            "founded": "04.жовтня.1990"
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "gender": "female",
+            "name": "ім. Олена Степанів",
+            "location": "Львів",
+            "founded": "28.вересня.1990"
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "gender": "male",
+            "name": "ім. Іван Виговський",
+            "location": "Львів",
+            "founded": "06.листопада.1990"
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "gender": "female",
+            "name": "ім. Анастасія Лісовська",
+            "location": "Львів",
+            "founded": "15.березня.1991"
+        },
+        {
+            "id": 5,
+            "number": 5,
+            "gender": "male",
+            "name": "ім. Роман Купчинський",
+            "location": "Львів",
+            "founded": "25.квітня.1991"
+        },
+        {
+            "id": 6,
+            "number": 6,
+            "gender": "female",
+            "name": "ім. Леся Українка",
+            "location": "Львів",
+            "founded": "08.квітня.1991"
+        },
+        {
+            "id": 7,
+            "number": 7,
+            "gender": "male",
+            "name": "ім. Петро Конашевич-Сагайдачний",
+            "location": "Львів",
+            "founded": "27.жовтня.1990"
+        },
+        {
+            "id": 8,
+            "number": 8,
+            "gender": "female",
+            "name": "ім. Ольга Басараб",
+            "location": "Львів",
+            "founded": "12.жовтня.1991"
+        },
+        {
+            "id": 9,
+            "number": 9,
+            "gender": "male",
+            "name": "ім. Василь Стус",
+            "location": "Луцьк",
+            "founded": "02.жовтня.1989"
+        },
+        {
+            "id": 10,
+            "number": 10,
+            "gender": "female",
+            "name": "ім. Княгиня Ольга",
+            "location": "Стрий",
+            "founded": "14.травня.1992"
+        },
+        {
+            "id": 11,
+            "number": 11,
+            "gender": "male",
+            "name": "ім. Іван Сірко",
+            "location": "Львів",
+            "founded": "03.січня.1991"
+        },
+        {
+            "id": 12,
+            "number": 12,
+            "gender": "female",
+            "name": "ім. Маруся Чурай",
+            "location": "Львів",
+            "founded": "10.вересня.1991"
+        },
+        {
+            "id": 13,
+            "number": 13,
+            "gender": "male",
+            "name": "ім. Олекса Довбуш",
+            "location": "Тернопіль",
+            "founded": "20.вересня.1991"
+        },
+        {
+            "id": 14,
+            "number": 14,
+            "gender": "female",
+            "name": "ім. Соломія Крушельницька",
+            "location": "Львів",
+            "founded": "17.жовтня.1992"
+        },
+        {
+            "id": 15,
+            "number": 15,
+            "gender": "male",
+            "name": "ім. Павло Полуботок",
+            "location": "Львів",
+            "founded": "15.листопада.1990"
+        },
+        {
+            "id": 16,
+            "number": 16,
+            "gender": "female",
+            "name": "ім. Іванна Блажкевич",
+            "location": "Тернопіль",
+            "founded": "10.лютого.1992"
+        },
+        {
+            "id": 17,
+            "number": 17,
+            "gender": "male",
+            "name": "ім. Юрій Дрогобич",
+            "location": "Дрогобич",
+            "founded": "19.вересня.1991"
+        },
+        {
+            "id": 18,
+            "number": 18,
+            "gender": "female",
+            "name": "ім. Уляна Кравченко",
+            "location": "Дрогобич",
+            "founded": "13.лютого.1992"
+        },
+        {
+            "id": 19,
+            "number": 19,
+            "gender": "male",
+            "name": "ім. Андрей Шептицький",
+            "location": "Стрий",
+            "founded": "08.березня.1992"
+        },
+        {
+            "id": 20,
+            "number": 20,
+            "gender": "female",
+            "name": "ім. Олена Теліга",
+            "location": "Рівне",
+            "founded": "16.жовтня.1993"
+        },
+        {
+            "id": 21,
+            "number": 21,
+            "gender": "male",
+            "name": "ім. Григорій Сковорода",
+            "location": "Львів",
+            "founded": "02.січня.1993"
+        },
+        {
+            "id": 22,
+            "number": 22,
+            "gender": "female",
+            "name": "ім. Марійка Підгірянка",
+            "location": "Івано-Франківськ",
+            "founded": "11.березня.1995"
+        },
+        {
+            "id": 23,
+            "number": 23,
+            "gender": "male",
+            "name": "ім. Степан Бандера",
+            "location": "Львів",
+            "founded": "08.грудня.1991"
+        },
+        {
+            "id": 24,
+            "number": 24,
+            "gender": "female",
+            "name": "ім. Софія Русова",
+            "location": "Червоноград",
+            "founded": "05.квітня.1994"
+        },
+        {
+            "id": 25,
+            "number": 25,
+            "gender": "male",
+            "name": "ім. Роман Шухевич",
+            "location": "Стрий",
+            "founded": "14.червня.1991"
+        },
+        {
+            "id": 26,
+            "number": 26,
+            "gender": "female",
+            "name": "ім. Олена Пчілка",
+            "location": "Львів",
+            "founded": "25.грудня.1993"
+        },
+        {
+            "id": 27,
+            "number": 27,
+            "gender": "male",
+            "name": "ім. Володимир Івасюк",
+            "location": "Івано-Франківськ",
+            "founded": "22.грудня.1991"
+        },
+        {
+            "id": 28,
+            "number": 28,
+            "gender": "female",
+            "name": "ім. Христина Алчевська",
+            "location": "Сокаль",
+            "founded": "01.березня.1997"
+        },
+        {
+            "id": 29,
+            "number": 29,
+            "gender": "male",
+            "name": "ім. Юрій Старосольський",
+            "location": "Тернопіль",
+            "founded": "25.травня.1992"
+        },
+        {
+            "id": 30,
+            "number": 30,
+            "gender": "female",
+            "name": "ім. Катруся Зарицька",
+            "location": "Львів",
+            "founded": "25.березня.1995"
+        },
+        {
+            "id": 31,
+            "number": 31,
+            "gender": "male",
+            "name": "ім. Василь Баюрак",
+            "location": "Черніїв",
+            "founded": "01.вересня.1993"
+        },
+        {
+            "id": 32,
+            "number": 32,
+            "gender": "female",
+            "name": "ім. Олена Кульчицька",
+            "location": "Самбір",
+            "founded": "29.квітня.1992"
+        },
+        {
+            "id": 33,
+            "number": 33,
+            "gender": "male",
+            "name": "ім. Улас Самчук",
+            "location": "Рівне",
+            "founded": "02.листопада.1991"
+        },
+        {
+            "id": 34,
+            "number": 34,
+            "gender": "female",
+            "name": "ім. Софія Галечко",
+            "location": "Надвірна",
+            "founded": "13.лютого.1996"
+        },
+        {
+            "id": 35,
+            "number": 35,
+            "gender": "male",
+            "name": "ім. Юстим Гірняк",
+            "location": "Ямниця (Франківська округа)",
+            "founded": "11.травня.1993"
+        },
+        {
+            "id": 36,
+            "number": 36,
+            "gender": "female",
+            "name": "ім. Анна Ярославна",
+            "location": "Львів",
+            "founded": "25.травня.1996"
+        },
+        {
+            "id": 37,
+            "number": 37,
+            "gender": "male",
+            "name": "ім. Микола Міхновський",
+            "location": "Київ",
+            "founded": "28.грудня.1993"
+        },
+        {
+            "id": 38,
+            "number": 38,
+            "gender": "female",
+            "name": "ім. Миколая Божук",
+            "location": "Ужгород",
+            "founded": "09.березня.1994"
+        },
+        {
+            "id": 39,
+            "number": 39,
+            "gender": "male",
+            "name": "ім. Дмитро Донцов",
+            "location": "Київ",
+            "founded": "12.грудня.1992"
+        },
+        {
+            "id": 40,
+            "number": 40,
+            "gender": "female",
+            "name": "ім. Софія Корбут",
+            "location": "Красне(Львівська Область)/Львів",
+            "founded": "04.грудня.1996"
+        },
+        {
+            "id": 41,
+            "number": 41,
+            "gender": "male",
+            "name": "ім. Тарас Бульба",
+            "location": "Львів",
+            "founded": "19.листопада.1993"
+        },
+        {
+            "id": 42,
+            "number": 42,
+            "gender": "female",
+            "name": "ім. Галина Дидик",
+            "location": "Тернопіль",
+            "founded": "15.березня.1995"
+        },
+        {
+            "id": 43,
+            "number": 43,
+            "gender": "male",
+            "name": "ім. Пилип Орлик",
+            "location": "Львів",
+            "founded": "15.січня.1994"
+        },
+        {
+            "id": 44,
+            "number": 44,
+            "gender": "female",
+            "name": "ім. Зиновія Франко",
+            "location": "Львів",
+            "founded": "06.грудня.1997"
+        },
+        {
+            "id": 45,
+            "number": 45,
+            "gender": "male",
+            "name": "ім. князь Федір Корятович",
+            "location": "Ужгород",
+            "founded": "05.жовтня.1993"
+        },
+        {
+            "id": 46,
+            "number": 46,
+            "gender": "female",
+            "name": "ім. Маруся Богуславка",
+            "location": "Київ",
+            "founded": "21.жовтня.2001"
+        },
+        {
+            "id": 47,
+            "number": 47,
+            "gender": "male",
+            "name": "ім. Андрій Войнаровський",
+            "location": "Червоноград",
+            "founded": "10.квітня.1994"
+        },
+        {
+            "id": 48,
+            "number": 48,
+            "gender": "female",
+            "name": "ім. Ярослави Стецько",
+            "location": "Луцьк",
+            "founded": "18.квітня.2003"
+        },
+        {
+            "id": 49,
+            "number": 49,
+            "gender": "male",
+            "name": "ім. Івана Миколайчука",
+            "location": "Івано-Франківськ",
+            "founded": "5.лютого.1995"
+        },
+        {
+            "id": 50,
+            "number": 50,
+            "gender": "female",
+            "name": "ім. Богдана Світлик",
+            "location": "Львів",
+            "founded": "20.жовтня.2002"
+        },
+        {
+            "id": 51,
+            "number": 51,
+            "gender": "male",
+            "name": "ім. Кн. Святослав Завойовник",
+            "location": "Тернопіль",
+            "founded": "01.листопада.1995"
+        },
+        {
+            "id": 52,
+            "number": 52,
+            "gender": "female",
+            "name": "ім. Марта Чорна",
+            "location": "Львів",
+            "founded": "08.квітня.2004"
+        },
+        {
+            "id": 53,
+            "number": 53,
+            "gender": "male",
+            "name": "ім. Євген Коновалець",
+            "location": "Новий Розділ",
+            "founded": "15.лютого.1994"
+        },
+        {
+            "id": 54,
+            "number": 54,
+            "gender": "female",
+            "name": "ім. Коренець Ганка",
+            "location": "Львів",
+            "founded": "24.вересня.2004"
+        },
+        {
+            "id": 55,
+            "number": 55,
+            "gender": "male",
+            "name": "ім. Максим Залізняк",
+            "location": "Коломия",
+            "founded": "10.вересня.1995"
+        },
+        {
+            "id": 56,
+            "number": 56,
+            "gender": "female",
+            "name": "ім. Мілена Рудницька",
+            "location": "Івано-Франківськ",
+            "founded": "10.квітня.2006"
+        },
+        {
+            "id": 57,
+            "number": 57,
+            "gender": "male",
+            "name": "ім. Василь Сидор",
+            "location": "Сокаль",
+            "founded": "10.вересня.1995"
+        },
+        {
+            "id": 58,
+            "number": 58,
+            "gender": "female",
+            "name": "ім. Катерина Білокур",
+            "location": "Тернопіль",
+            "founded": "14.жовтня.1999"
+        },
+        {
+            "id": 59,
+            "number": 59,
+            "gender": "male",
+            "name": "ім. Степан Ленкавський",
+            "location": "Івано-Франківськ",
+            "founded": "18.квітня.1995"
+        },
+        {
+            "id": 60,
+            "number": 60,
+            "gender": "female",
+            "name": "ім. Галя Мороз",
+            "location": "Тернопіль",
+            "founded": "06.березня.1999"
+        },
+        {
+            "id": 61,
+            "number": 61,
+            "gender": "male",
+            "name": "ім. Олександр Тисовський",
+            "location": "Самбір",
+            "founded": "12.лютого.1997"
+        },
+        {
+            "id": 62,
+            "number": 62,
+            "gender": "female",
+            "name": "ім. Гальшка Острозька",
+            "location": "Острог",
+            "founded": "15.січня.2000"
+        },
+        {
+            "id": 63,
+            "number": 63,
+            "gender": "male",
+            "name": "ім. Іван Тиктор",
+            "location": "Красне",
+            "founded": "04.грудня.1996"
+        },
+        {
+            "id": 64,
+            "number": 64,
+            "gender": "female",
+            "name": "ім. Люба Гайовська-Рута",
+            "location": "Рудки",
+            "founded": "2003.вересня.2000"
+        },
+        {
+            "id": 65,
+            "number": 65,
+            "gender": "male",
+            "name": "ім. Петро Франко",
+            "location": "Краматорськ",
+            "founded": "26.грудня.1998"
+        },
+        {
+            "id": 66,
+            "number": 66,
+            "gender": "female",
+            "name": "ім. Єлизавета Гулевичівна",
+            "location": "Трускавець",
+            "founded": "06.вересня.1992"
+        },
+        {
+            "id": 67,
+            "number": 67,
+            "gender": "male",
+            "name": "ім. Михайло Горбовий",
+            "location": "Косів",
+            "founded": "28.листопада.1998"
+        },
+        {
+            "id": 68,
+            "number": 68,
+            "gender": "female",
+            "name": "ім. Галина Грабець",
+            "location": "Коломия",
+            "founded": "10.березня.2007"
+        },
+        {
+            "id": 69,
+            "number": 69,
+            "gender": "male",
+            "name": "ім. Богдан Хмельницький",
+            "location": "Львів",
+            "founded": "2003"
+        },
+        {
+            "id": 70,
+            "number": 70,
+            "gender": "female",
+            "name": "ім. Ольга Кобилянська",
+            "location": "Івано-Франківськ",
+            "founded": "21.січня.2008"
+        },
+        {
+            "id": 71,
+            "number": 71,
+            "gender": "male",
+            "name": "ім. Князь Лев",
+            "location": "Львів",
+            "founded": "15.січня.2002"
+        },
+        {
+            "id": 72,
+            "number": 72,
+            "gender": "female",
+            "name": "ім. Марія-Магдалина Мазепа",
+            "location": "Київ",
+            "founded": "18.листопада.2002"
+        },
+        {
+            "id": 73,
+            "number": 73,
+            "gender": "male",
+            "name": "ім. Іван Богун",
+            "location": "Львів",
+            "founded": "14.грудня.2001"
+        },
+        {
+            "id": 74,
+            "number": 74,
+            "gender": "female",
+            "name": "ім. Ірина Вільде",
+            "location": "Чернівці",
+            "founded": ""
+        },
+        {
+            "id": 75,
+            "number": 75,
+            "gender": "male",
+            "name": "ім. Герої бою під Крутами",
+            "location": "Київ",
+            "founded": "17.листопада.2000"
+        },
+        {
+            "id": 76,
+            "number": 76,
+            "gender": "female",
+            "name": "ім. Марко Вовчок",
+            "location": "Рудне",
+            "founded": "10.квітня.2006"
+        },
+        {
+            "id": 77,
+            "number": 77,
+            "gender": "male",
+            "name": "ім. Іван Гавдида",
+            "location": "Тернопіль",
+            "founded": "23.жовтня.2006"
+        },
+        {
+            "id": 78,
+            "number": 78,
+            "gender": "female",
+            "name": "ім. Костянтина Малицька",
+            "location": "Іваниківка",
+            "founded": "20.серпня.2009"
+        },
+        {
+            "id": 79,
+            "number": 79,
+            "gender": "male",
+            "name": "ім. В'ячеслав Липинський",
+            "location": "Івано-Франківськ",
+            "founded": "10.квітня.2006"
+        },
+        {
+            "id": 80,
+            "number": 80,
+            "gender": "female",
+            "name": "ім. Алла Горська",
+            "location": "Новий Розділ",
+            "founded": "17.червня.2007"
+        },
+        {
+            "id": 81,
+            "number": 81,
+            "gender": "male",
+            "name": "ім. о. Степан Онишкевич",
+            "location": "Рудки",
+            "founded": "27.березня.2004"
+        },
+        {
+            "id": 82,
+            "number": 82,
+            "gender": "female",
+            "name": "ім. Марія Старицька",
+            "location": "Львів",
+            "founded": "17.травня.2011"
+        },
+        {
+            "id": 83,
+            "number": 83,
+            "gender": "male",
+            "name": "ім. Клим Савур",
+            "location": "Луцьк",
+            "founded": "01.травня.2008"
+        },
+        {
+            "id": 84,
+            "number": 84,
+            "gender": "female",
+            "name": "ім. Марія Примаченко",
+            "location": "Львів",
+            "founded": "30.листопада.2014"
+        },
+        {
+            "id": 85,
+            "number": 85,
+            "gender": "male",
+            "name": "ім. Володимир Ґерета",
+            "location": "Козова",
+            "founded": "30.січня.2005"
+        },
+        {
+            "id": 86,
+            "number": 86,
+            "gender": "female",
+            "name": "ім. Наталя Красник",
+            "location": "Старий Самбір",
+            "founded": "26.січня.2013"
+        },
+        {
+            "id": 87,
+            "number": 87,
+            "gender": "male",
+            "name": "ім. Іван Багряний",
+            "location": "Львів",
+            "founded": "26.жовтня.2005"
+        },
+        {
+            "id": 88,
+            "number": 88,
+            "gender": "female",
+            "name": "ім. Ганна Дмитерко",
+            "location": "Миколаїв (Львівська область)",
+            "founded": "25.березня.2014"
+        },
+        {
+            "id": 89,
+            "number": 89,
+            "gender": "male",
+            "name": "ім. Байда Вишневецький",
+            "location": "Львів",
+            "founded": "31.травня.1995"
+        },
+        {
+            "id": 90,
+            "number": 90,
+            "gender": "female",
+            "name": "ім. Анна Всеволодівна",
+            "location": "Київ",
+            "founded": "29.березня.2013"
+        },
+        {
+            "id": 91,
+            "number": 91,
+            "gender": "male",
+            "name": "ім. Іван Цяпка-Скоропад",
+            "location": "Львів",
+            "founded": "11.жовтня.2009"
+        },
+        {
+            "id": 92,
+            "number": 92,
+            "gender": "female",
+            "name": "ім. Наталена Королева",
+            "location": "Київ",
+            "founded": "15.вересня.2015"
+        },
+        {
+            "id": 93,
+            "number": 93,
+            "gender": "male",
+            "name": "ім. Андрій Первозваний",
+            "location": "Київ",
+            "founded": "05.лютого.2002"
+        },
+        {
+            "id": 94,
+            "number": 94,
+            "gender": "female",
+            "name": "ім. Соломія Павличко",
+            "location": "Львів",
+            "founded": "15.травня.2017"
+        },
+        {
+            "id": 95,
+            "number": 95,
+            "gender": "male",
+            "name": "ім. Дмитро Яворницький",
+            "location": "Дніпро",
+            "founded": "28.березня.1992"
+        },
+        {
+            "id": 96,
+            "number": 96,
+            "gender": "female",
+            "name": "ім. Михайлина Коцюбинська",
+            "location": "Вінниця",
+            "founded": "17.лютого.2015"
+        },
+        {
+            "id": 97,
+            "number": 97,
+            "gender": "male",
+            "name": "ім. Максим Кривоніс",
+            "location": "Київ",
+            "founded": "15.лютого.2008"
+        },
+        {
+            "id": 98,
+            "number": 98,
+            "gender": "female",
+            "name": "ім. Маруся Соколовська",
+            "location": "Житомир",
+            "founded": "07.червня.2013"
+        },
+        {
+            "id": 99,
+            "number": 100,
+            "gender": "female",
+            "name": "ім. Ірина Козак-Савицька",
+            "location": "Львів",
+            "founded": "26.квітня.2017"
+        },
+        {
+            "id": 100,
+            "number": 101,
+            "gender": "mixed",
+            "name": "ім. Назарій Яремчук",
+            "location": "Білі Ослави",
+            "founded": "21.січня.2001"
+        },
+        {
+            "id": 101,
+            "number": 102,
+            "gender": "mixed",
+            "name": "ім. Олександр Довженко",
+            "location": "Миколаївка",
+            "founded": "26.лютого.2000"
+        },
+        {
+            "id": 102,
+            "number": 103,
+            "gender": "male",
+            "name": "ім. Брати Лепкі",
+            "location": "Бережани",
+            "founded": "23.грудня.2006"
+        },
+        {
+            "id": 103,
+            "number": 104,
+            "gender": "female",
+            "name": "ім. Наталія Лівицька-Холодна",
+            "location": "Київ",
+            "founded": "11.січня.2017"
+        },
+        {
+            "id": 104,
+            "number": 105,
+            "gender": "male",
+            "name": "ім. Данило Нечай",
+            "location": "Вінниця",
+            "founded": "01.серпня.2011"
+        },
+        {
+            "id": 105,
+            "number": 106,
+            "gender": "female",
+            "name": "ім. св. Мотрона",
+            "location": "Черкаси",
+            "founded": "14.квітня.2013"
+        },
+        {
+            "id": 106,
+            "number": 107,
+            "gender": "male",
+            "name": "ім. Петро Войновський",
+            "location": "Чернівці",
+            "founded": "26.жовтня.2009"
+        },
+        {
+            "id": 107,
+            "number": 108,
+            "gender": "female",
+            "name": "ім. Дарія Ребет",
+            "location": "Львів",
+            "founded": "28.червня.2016"
+        },
+        {
+            "id": 108,
+            "number": 109,
+            "gender": "male",
+            "name": "ім. Ярослав Горошко",
+            "location": "Львів",
+            "founded": "17.жовтня.2014"
+        },
+        {
+            "id": 109,
+            "number": 110,
+            "gender": "female",
+            "name": "ім. Софія Шептицька",
+            "location": "Львів",
+            "founded": "30.вересня.2017"
+        },
+        {
+            "id": 110,
+            "number": 111,
+            "gender": "male",
+            "name": "ім. князь Роман Мстиславович",
+            "location": "Львів",
+            "founded": "08.грудня.2014"
+        },
+        {
+            "id": 111,
+            "number": 112,
+            "gender": "female",
+            "name": "ім. Надія Світлична",
+            "location": "Здолбунів",
+            "founded": "01.грудня.2014"
+        },
+        {
+            "id": 112,
+            "number": 113,
+            "gender": "male",
+            "name": "ім. Євген Подолянчук",
+            "location": "Черкаси",
+            "founded": "03.лютого.2013"
+        },
+        {
+            "id": 113,
+            "number": 114,
+            "gender": "female",
+            "name": "ім. Христя Ковч",
+            "location": "Авдіївка",
+            "founded": "10.вересня.2012"
+        },
+        {
+            "id": 114,
+            "number": 115,
+            "gender": "male",
+            "name": "ім. Володимир Великий",
+            "location": "Київ",
+            "founded": "03.лютого.2013"
+        },
+        {
+            "id": 115,
+            "number": 116,
+            "gender": "female",
+            "name": "ім. Олена Левчанівська",
+            "location": "Луцьк",
+            "founded": "23.вересня.2011"
+        },
+        {
+            "id": 116,
+            "number": 117,
+            "gender": "male",
+            "name": "ім. Іван Чмола",
+            "location": "Львів",
+            "founded": "06.листопада.2017"
+        },
+        {
+            "id": 117,
+            "number": 118,
+            "gender": "female",
+            "name": "ім. Варвара Каринська",
+            "location": "Харків",
+            "founded": "19.лютого.2019"
+        },
+        {
+            "id": 118,
+            "number": 119,
+            "gender": "male",
+            "name": "ім. Орест Субтельний",
+            "location": "Київ",
+            "founded": ""
+        },
+        {
+            "id": 119,
+            "number": 120,
+            "gender": "female",
+            "name": "ім. Перелісна Катерина Федорівна",
+            "location": "Харків",
+            "founded": ""
+        },
+        {
+            "id": 120,
+            "number": 121,
+            "gender": "male",
+            "name": "ім. Дідік Данило",
+            "location": "Харків",
+            "founded": ""
+        },
+        {
+            "id": 121,
+            "number": 122,
+            "gender": "female",
+            "name": "ім. Дніпрова Чайка",
+            "location": "Львів",
+            "founded": ""
+        },
+        {
+            "id": 122,
+            "number": 123,
+            "gender": "male",
+            "name": "ім. Михайло Палідович-Карпатський",
+            "location": "Миколаїв (Львівська область)",
+            "founded": "26.травня.1992"
+        },
+        {
+            "id": 123,
+            "number": 124,
+            "gender": "female",
+            "name": "ім. Вовк Алла Юліанівна",
+            "location": "Київ",
+            "founded": ""
+        },
+        {
+            "id": 124,
+            "number": 125,
+            "gender": "male",
+            "name": "ім. Князі Острозькі",
+            "location": "Здолбунів",
+            "founded": ""
+        },
+        {
+            "id": 125,
+            "number": 126,
+            "gender": "female",
+            "name": "ім. Квітка Цісик",
+            "location": "Тернопіль",
+            "founded": ""
+        },
+        {
+            "id": 126,
+            "number": 127,
+            "gender": "male",
+            "name": "ім. Яків Голуб",
+            "location": "Тисмениця",
+            "founded": ""
+        },
+        {
+            "id": 127,
+            "number": 128,
+            "gender": "female",
+            "name": "ім. Марія Кизимович",
+            "location": "Бучач",
+            "founded": "23.серпня.2015"
+        },
+        {
+            "id": 128,
+            "number": 129,
+            "gender": "male",
+            "name": "ім. Микола Гордійчук",
+            "location": "Кам'янець-Подільський",
+            "founded": "12.квітня.2022"
+        },
+        {
+            "id": 129,
+            "number": 130,
+            "gender": "female",
+            "name": "ім. Параска Плитка-Горицвіт",
+            "location": "Бережани",
+            "founded": "25.жовтня.2020"
+        },
+        {
+            "id": 130,
+            "number": 131,
+            "gender": "unknown",
+            "name": "ім. Роман Ратушний",
+            "location": "Вараш",
+            "founded": ""
+        },
+        {
+            "id": 131,
+            "number": 132,
+            "gender": "female",
+            "name": "ім. Звенислава Сагайдаківська",
+            "location": "Шпанів",
+            "founded": "27.жовтня.2019"
+        },
+        {
+            "id": 132,
+            "number": 133,
+            "gender": "male",
+            "name": "ім. Тарас Бульба-Боровець",
+            "location": "Рівне",
+            "founded": "26.вересня"
+        },
+        {
+            "id": 133,
+            "number": 134,
+            "gender": "female",
+            "name": "ім. Оксана Мешко",
+            "location": "Золочів",
+            "founded": ""
+        },
+        {
+            "id": 134,
+            "number": 135,
+            "gender": "male",
+            "name": "ім. Св. Йосафат Кунцевич",
+            "location": "Бучач",
+            "founded": ""
+        },
+        {
+            "id": 135,
+            "number": 136,
+            "gender": "female",
+            "name": "ім. Ольга Ільків",
+            "location": "Тернопіль",
+            "founded": ""
+        },
+        {
+            "id": 136,
+            "number": 138,
+            "gender": "female",
+            "name": "ім. Марія Бек",
+            "location": "Калуш",
+            "founded": "23.квітня.2021"
+        },
+        {
+            "id": 137,
+            "number": 140,
+            "gender": "female",
+            "name": "ім. Марія Грінчеко (Загірня)",
+            "location": "Кам'янець-Подільський",
+            "founded": ""
+        },
+        {
+            "id": 138,
+            "number": 142,
+            "gender": "female",
+            "name": "ім. Христина Сушко",
+            "location": "Буча",
+            "founded": ""
+        },
+        {
+            "id": 139,
+            "number": 144,
+            "gender": "female",
+            "name": "ім. Євгенія Головацька",
+            "location": "Рогатин",
+            "founded": "22.листопада.2024"
+        },
+        {
+            "id": 140,
+            "number": 0,
+            "gender": "female",
+            "name": "ім. Наталя Кобринська",
+            "location": "Київ",
+            "founded": "18.листопада.2019"
+        },
+        {
+            "id": 141,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Ярослав Стецько",
+            "location": "Київ",
+            "founded": ""
+        },
+        {
+            "id": 142,
+            "number": 0,
+            "gender": "mixed",
+            "name": "ім. Спиридон Черкасенко",
+            "location": "Миколаїв (Миколаївська область)",
+            "founded": ""
+        },
+        {
+            "id": 143,
+            "number": 146,
+            "gender": "female",
+            "name": "ім. Сестра Либідь",
+            "location": "Щасливе",
+            "founded": ""
+        },
+        {
+            "id": 144,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Іван Мазепа",
+            "location": "Кременчук",
+            "founded": ""
+        },
+        {
+            "id": 145,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Аверкій Гончаренко",
+            "location": "Бровари",
+            "founded": ""
+        },
+        {
+            "id": 146,
+            "number": 0,
+            "gender": "mixed",
+            "name": "ім. Василь Кархут",
+            "location": "Одеса",
+            "founded": ""
+        },
+        {
+            "id": 147,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Ілля Гайдук",
+            "location": "Кривий Ріг",
+            "founded": ""
+        },
+        {
+            "id": 148,
+            "number": 0,
+            "gender": "female",
+            "name": "ім. Марія Заньковецька",
+            "location": "Кропивницький",
+            "founded": ""
+        },
+        {
+            "id": 149,
+            "number": 0,
+            "gender": "mixed",
+            "name": "ім. Олександр Блистів",
+            "location": "Мукачево",
+            "founded": ""
+        },
+        {
+            "id": 150,
+            "number": 150,
+            "gender": "female",
+            "name": "ім. Софія Яблонська",
+            "location": "Зоря (Рівненський район)",
+            "founded": "11.листопада.2023"
+        },
+        {
+            "id": 151,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Петро Болбочан",
+            "location": "Хмельницький",
+            "founded": ""
+        },
+        {
+            "id": 152,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Сергія Ткаченка",
+            "location": "Буча",
+            "founded": "29.вересня.2024"
+        },
+        {
+            "id": 153,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Івана Підкови",
+            "location": "Зимна Вода",
+            "founded": ""
+        },
+        {
+            "id": 154,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Любомир Крупа",
+            "location": "Велика Березовиця",
+            "founded": "10.листопада.2024"
+        },
+        {
+            "id": 155,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Олега Ольжича",
+            "location": "Житомир",
+            "founded": "21.березня.2013"
+        },
+        {
+            "id": 156,
+            "number": 0,
+            "gender": "female",
+            "name": "ім. Оксани Лятуринської",
+            "location": "Кременець",
+            "founded": ""
+        },
+        {
+            "id": 157,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Роман Жеплинський",
+            "location": "Новояворівськ",
+            "founded": "26.травня.2025"
+        },
+        {
+            "id": 158,
+            "number": 0,
+            "gender": "male",
+            "name": "ім. Йосипа Терелі",
+            "location": "Довге",
+            "founded": "N/A"
+        },
+        {
+            "id": 159,
+            "number": 0,
+            "gender": "mixed",
+            "name": "ім. Іван (Маргітич)",
+            "location": "Хуст",
+            "founded": "04.лютого.2020"
+        },
+        {
+            "id": 160,
+            "number": 0,
+            "gender": "female",
+            "name": "ім. Віра Вовк",
+            "location": "Кути",
+            "founded": ""
+        },
+        {
+            "id": 161,
+            "number": 0,
+            "gender": "female",
+            "name": "ім. Кекилії Паліїв",
+            "location": "Довге",
+            "founded": "05.грудня.2023"
+        }
+    ],
+    "usp": [
+        {
+            "id": 2,
+            "usp_number": 1,
+            "ups_number": 16,
+            "name": "Ватага Бурлаків",
+            "patron": "ім. Григорія Сковороди"
+        },
+        {
+            "id": 3,
+            "usp_number": 2,
+            "ups_number": 17,
+            "name": "Перші Стежі",
+            "patron": null
+        },
+        {
+            "id": 4,
+            "usp_number": 3,
+            "ups_number": 3,
+            "name": "Лісові Чорти",
+            "patron": null
+        },
+        {
+            "id": 5,
+            "usp_number": 4,
+            "ups_number": 2,
+            "name": "Ті, що греблі рвуть",
+            "patron": "ім. Лесі Українки"
+        },
+        {
+            "id": 6,
+            "usp_number": 5,
+            "ups_number": 20,
+            "name": "Орден Хрестоносців",
+            "patron": "ім. Митрополита Андрея Шептицького"
+        },
+        {
+            "id": 7,
+            "usp_number": 6,
+            "ups_number": 21,
+            "name": "Буриверхи",
+            "patron": null
+        },
+        {
+            "id": 8,
+            "usp_number": 7,
+            "ups_number": 18,
+            "name": "Чота Крилатих",
+            "patron": "ім. Євгена Коновальця"
+        },
+        {
+            "id": 9,
+            "usp_number": 8,
+            "ups_number": null,
+            "name": "Чортополохи",
+            "patron": null
+        },
+        {
+            "id": 10,
+            "usp_number": 9,
+            "ups_number": null,
+            "name": "Одержимі",
+            "patron": "ім. Софії Фредро-Шептицької"
+        },
+        {
+            "id": 11,
+            "usp_number": 11,
+            "ups_number": null,
+            "name": "НепрОсті",
+            "patron": null
+        },
+        {
+            "id": 12,
+            "usp_number": 12,
+            "ups_number": 46,
+            "name": "Рутенії",
+            "patron": "ім. Олени Теліги"
+        },
+        {
+            "id": 13,
+            "usp_number": 14,
+            "ups_number": null,
+            "name": "Спартанки",
+            "patron": null
+        },
+        {
+            "id": 14,
+            "usp_number": 15,
+            "ups_number": 45,
+            "name": "Орден Залізної Остроги",
+            "patron": "ім. Святослава Завойовника"
+        },
+        {
+            "id": 15,
+            "usp_number": 16,
+            "ups_number": 40,
+            "name": "Чорноморські Хвилі",
+            "patron": "ім. Андрія Войнаровського"
+        },
+        {
+            "id": 16,
+            "usp_number": 18,
+            "ups_number": null,
+            "name": "Шостокрилі",
+            "patron": null
+        },
+        {
+            "id": 17,
+            "usp_number": 20,
+            "ups_number": null,
+            "name": "Лісові Мавки",
+            "patron": "ім. Лесі Українки"
+        },
+        {
+            "id": 18,
+            "usp_number": 23,
+            "ups_number": 5,
+            "name": "Червона Калина",
+            "patron": null
+        },
+        {
+            "id": 19,
+            "usp_number": 24,
+            "ups_number": 26,
+            "name": "Княгині",
+            "patron": "ім. Княгиної Ольги"
+        },
+        {
+            "id": 20,
+            "usp_number": 25,
+            "ups_number": 10,
+            "name": "Чорноморці",
+            "patron": "ім. св. о. Миколая"
+        },
+        {
+            "id": 21,
+            "usp_number": 26,
+            "ups_number": null,
+            "name": "Верховинки",
+            "patron": null
+        },
+        {
+            "id": 22,
+            "usp_number": 27,
+            "ups_number": null,
+            "name": "Хмельниченки",
+            "patron": "ім. гетьмана Богдана Хмельницького"
+        },
+        {
+            "id": 23,
+            "usp_number": 29,
+            "ups_number": 29,
+            "name": "Велике плем'я Сіроманці",
+            "patron": "ім. А. Гарасевича"
+        },
+        {
+            "id": 24,
+            "usp_number": 31,
+            "ups_number": 31,
+            "name": "Вовкулаки",
+            "patron": "ім. кошового отамана Івана Сірка"
+        },
+        {
+            "id": 25,
+            "usp_number": 32,
+            "ups_number": null,
+            "name": "Степові Відьми",
+            "patron": null
+        },
+        {
+            "id": 26,
+            "usp_number": 41,
+            "ups_number": 44,
+            "name": "Целібат Мурлики",
+            "patron": "ім. Івана Чмоли"
+        },
+        {
+            "id": 27,
+            "usp_number": 46,
+            "ups_number": null,
+            "name": "Літавиці",
+            "patron": null
+        },
+        {
+            "id": 28,
+            "usp_number": 47,
+            "ups_number": null,
+            "name": "Передові",
+            "patron": null
+        },
+        {
+            "id": 29,
+            "usp_number": 48,
+            "ups_number": null,
+            "name": "Орликівці",
+            "patron": "ім. Григора і Пилипа Орликів"
+        },
+        {
+            "id": 30,
+            "usp_number": 49,
+            "ups_number": null,
+            "name": "Зелені Гуски",
+            "patron": null
+        },
+        {
+            "id": 31,
+            "usp_number": 50,
+            "ups_number": null,
+            "name": "Червоні Маки",
+            "patron": null
+        },
+        {
+            "id": 32,
+            "usp_number": 51,
+            "ups_number": null,
+            "name": "Ластівки",
+            "patron": "ім. Олени Вітер"
+        },
+        {
+            "id": 33,
+            "usp_number": 52,
+            "ups_number": 30,
+            "name": "Блискавки",
+            "patron": null
+        },
+        {
+            "id": 34,
+            "usp_number": 53,
+            "ups_number": 43,
+            "name": "Карпатські орли",
+            "patron": null
+        },
+        {
+            "id": 35,
+            "usp_number": 54,
+            "ups_number": null,
+            "name": "Бунтарки",
+            "patron": null
+        },
+        {
+            "id": 36,
+            "usp_number": 100,
+            "ups_number": 7,
+            "name": "Орден Золотого Стремена",
+            "patron": "ім. Андрія Войнаровського"
+        },
+        {
+            "id": 37,
+            "usp_number": 101,
+            "ups_number": null,
+            "name": "Карпатські вовки",
+            "patron": null
+        }
+    ]
+}
